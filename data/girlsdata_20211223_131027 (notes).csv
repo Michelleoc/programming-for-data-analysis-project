@@ -1,0 +1,24 @@
+Role Models,,,,Competitiveness1,,,,Access compared to Boys,
+0,Low,,,Competitive,Medium,,,<50%,Low
+1,Low,,,Non-Competitive,Low,,,50-100%,Medium
+2,Low,,,,,,,Equal,High
+3,Medium,,,,,,,Over 100%,High
+4,Medium,,,,,,,,
+5,Medium,,,,,,,,
+6,High,,,,,,,,
+7,High,,,,,,,,
+8,High,,,,,,,,
+9,High,,,,,,,,
+10,High,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+3 outcomes,,,,,,,,,
+,,,,,,,,,
+Low,Low,Medium,High,Outcome,,,,,
+,1,1,1,"If equal in all, Medium",,,,,
+,1,2,0,"If Low = 2, then low",,,,,
+,1,0,2,"If Medium= 2, then Medium",,,,,
+,,,,"If High= 2, then High",,,,,
+,,,,"If Low = 3, then low",,,,,
+,,,,"If Medium= 3, then Medium",,,,,
+,,,,"If High= 3, then High",,,,,
