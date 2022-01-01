@@ -28,30 +28,16 @@ Folders :
 2. images 
 
 
-## How to view the notebook
-
-### cao
+## How to view the jupyter notebook
 
 You can view the notebook in static form by clicking the following image:
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Michelleoc/fundamentals-of-data-analysis-assessment/blob/main/cao.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Michelleoc/programming-for-data-analysis-project/blob/main/real-world-phenomenon.ipynb)
 
 You can view the notebook in dynamic form by clicking the following image:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Michelleoc/fundamentals-of-data-analysis-assessment/main?filepath=cao.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/michelleoc-prog-nalysis-project-qjlsnhtt/notebooks/real-world-phenomenon.ipynb)
 
-
-### pyplot
-
-You can view the notebook in static form by clicking the following image:
-
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Michelleoc/fundamentals-of-data-analysis-assessment/blob/main/pyplot.ipynb)
-
-You can view the notebook in dynamic form by clicking the following image:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Michelleoc/fundamentals-of-data-analysis-assessment/main?filepath=pyplot.ipynb)
-
-  
 
 ## How to run the notebook
 
