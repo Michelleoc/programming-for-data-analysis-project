@@ -36,7 +36,7 @@ You can view the notebook in static form by clicking the following image:
 
 You can view the notebook in dynamic form by clicking the following image:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/michelleoc-prog-nalysis-project-qjlsnhtt/notebooks/real-world-phenomenon.ipynb)
+[![Binder](https://notebooks.gesis.org/binder/jupyter/user/michelleoc-prog-nalysis-project-en7fdzn1/notebooks/real-world-phenomenon.ipynb)
 
 
 ## How to run the notebook
@@ -61,5 +61,5 @@ You can view the notebook in dynamic form by clicking the following image:
 4. Pandas
     Programming language for data manipulation and analysis. Pandas allows importing data from various file formats such as comma-separated values, JSON, SQL, Microsoft Excel. Pandas allows various data manipulation operations such as merging, reshaping, selecting.
 
-5. Datetime 
+5. Datetime    
     The datetime module supplies classes for manipulating dates and times
