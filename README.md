@@ -44,7 +44,14 @@ You can view the notebook in dynamic form by clicking the following image:
 
 1. Download [Anaconda](https://www.anaconda.com/products/individual).
 2. Download [cmder](https://cmder.net/) if on Windows
-3. Run'jupyter lab'
+3. After downloading the required software, in cmder change to the required directory. 
+4. Type "jupyter lab" or "jupyter notebook".
+5. Jupyter will open in your web browser as a new tab. 
+6. Keep the command prompt window open as it needs to stay open/running while Jupyter is active.
+7. Select the jupyter notebook you wish to run.
+8. Once in the notebook, on the menu bar select Kernel and then click on the "Restart and run all" option.
+9. When you have finished, close or exit the tab in your browser.
+10. Enter "Ctrl + C" in the command prompt to end the jupyter lab session.
   
 
 
