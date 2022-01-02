@@ -36,7 +36,7 @@ You can view the notebook in static form by clicking the following image:
 
 You can view the notebook in dynamic form by clicking the following image:
 
-[![Binder](https://notebooks.gesis.org/binder/jupyter/user/michelleoc-prog-nalysis-project-en7fdzn1/notebooks/real-world-phenomenon.ipynb)
+[![Binder](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://notebooks.gesis.org/binder/jupyter/user/michelleoc-prog-nalysis-project-en7fdzn1/notebooks/real-world-phenomenon.ipynb)
 
 
 ## How to run the notebook
