@@ -20,12 +20,13 @@ The tasks to be carried out in the Jupyter notebook are:
 
 ## Contents of Repository   
 
-Jupyter Notebook "Real World phenomenon"   
-Victoria Stats csv file
+1. Jupyter Notebook "Real World phenomenon".  
 
-Folders : 
-1. data  
-2. images 
+2. Victoria Stats csv file - research dataset for sport participants registered in Victoria, Australia in 2015 and in 2019, containing participation rates by age and sex.  
+
+3. Data Folder - contains csv files of simulated dataset    
+
+4. Images Folder - contains images used in jupyter notebook
 
 
 ## How to view the jupyter notebook
