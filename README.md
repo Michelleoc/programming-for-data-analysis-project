@@ -42,8 +42,8 @@ You can view the notebook in dynamic form by clicking the following image:
 
 ## How to run the notebook
 
-1. Download [Anaconda]().
-2. Download [cmder]() if on Windows
+1. Download [Anaconda](https://www.anaconda.com/products/individual).
+2. Download [cmder](https://cmder.net/) if on Windows
 3. Run'jupyter lab'
   
 
@@ -59,7 +59,7 @@ You can view the notebook in dynamic form by clicking the following image:
 3. Seaborn  
     Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics
     
-4. Pandas
+4. Pandas   
     Programming language for data manipulation and analysis. Pandas allows importing data from various file formats such as comma-separated values, JSON, SQL, Microsoft Excel. Pandas allows various data manipulation operations such as merging, reshaping, selecting.
 
 5. Datetime    
